@@ -1,1 +1,1 @@
-SISTOPE
+Respaldo de los laboratorios del curso Sistemas Operativos.
